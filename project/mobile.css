@@ -1,0 +1,44 @@
+#navbar {
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    overflow-y: hidden;
+}
+#training .items {
+    flex-direction: column;
+}
+#training .items .item {
+    width: 100%;
+}
+#courses .courses .course {
+    flex-direction: column;
+    text-align: center;
+}
+.courses .course .course-image1 span {
+    background: red;
+    padding: 0.25rem;
+    color: #fff;
+    border-radius: 5px;
+    position: absolute;
+    right: 4px;
+    top: 5px;
+}
+.courses .course .course-image2 span {
+    background: red;
+    padding: 0.25rem;
+    color: #fff;
+    border-radius: 5px;
+    position: absolute;
+    right: 4px;
+    top: 5px;
+}
+.courses .course .course-image3 span {
+    background: red;
+    padding: 0.25rem;
+    color: #fff;
+    border-radius: 5px;
+    position: absolute;
+    right: 4px;
+    top: 5px;
+}
